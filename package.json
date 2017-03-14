@@ -1,0 +1,26 @@
+{
+  "name": "shomoyjs",
+  "version": "0.0.1",
+  "description": "bangla date time package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerbin/shomoyjs.git"
+  },
+  "keywords": [
+    "bangla",
+    "shomoy",
+    "date",
+    "time",
+    "moment"
+  ],
+  "author": " <nurulhudarobin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackerbin/shomoyjs/issues"
+  },
+  "homepage": "https://github.com/hackerbin/shomoyjs#readme"
+}
