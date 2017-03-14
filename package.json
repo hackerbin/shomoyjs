@@ -1,5 +1,5 @@
 {
-  "name": "shomoyjs",
+  "name": "shomoy",
   "version": "0.0.1",
   "description": "bangla date time package",
   "main": "index.js",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hackerbin/shomoyjs/issues"
   },
-  "homepage": "https://github.com/hackerbin/shomoyjs#readme"
+  "homepage": "https://github.com/hackerbin/shomoyjs#readme",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
 }
