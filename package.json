@@ -1,6 +1,6 @@
 {
   "name": "shomoy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bangla date time package",
   "main": "index.js",
   "scripts": {
